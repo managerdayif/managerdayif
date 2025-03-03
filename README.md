@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hello, I'm Sekou Dayifourou Keita
 
-<!--
-**managerdayif/managerdayif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about web and mobile development, I specialize in **React, Next.js, Tailwind CSS**, and backend technologies to build innovative solutions.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Spring Boot, Prisma, MySQL, MongoDB
+- **Tools & Platforms:** GitHub, Firebase, Vercel, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- **React Native** for mobile app development
+- **Advanced JavaScript & TypeScript**
+- **Public Speaking & Communication**
+
+
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
